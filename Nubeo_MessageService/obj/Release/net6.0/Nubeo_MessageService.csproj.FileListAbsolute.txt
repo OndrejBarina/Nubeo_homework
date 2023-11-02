@@ -1,0 +1,12 @@
+C:\Users\barin\source\repos\Nubeo_MessageService\bin\Release\net6.0\Nubeo_MessageService.deps.json
+C:\Users\barin\source\repos\Nubeo_MessageService\bin\Release\net6.0\Nubeo_MessageService.dll
+C:\Users\barin\source\repos\Nubeo_MessageService\bin\Release\net6.0\Nubeo_MessageService.pdb
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.csproj.AssemblyReference.cache
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.AssemblyInfoInputs.cache
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.AssemblyInfo.cs
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.csproj.CoreCompileInputs.cache
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.dll
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\refint\Nubeo_MessageService.dll
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\Nubeo_MessageService.pdb
+C:\Users\barin\source\repos\Nubeo_MessageService\obj\Release\net6.0\ref\Nubeo_MessageService.dll

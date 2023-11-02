@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HomeworkNubeoMessageService</id>
+    <version>1.0.0</version>
+    <title>Nubeo Message service</title>
+    <authors>OndrejBarina</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Twilio" version="6.14.1" exclude="Build,Analyzers" />
+        <dependency id="Twilio.AspNet.Core" version="8.0.2" exclude="Build,Analyzers" />
+        <dependency id="libphonenumber-csharp" version="8.13.24" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\barin\source\repos\Nubeo_MessageService\bin\Release\net6.0\Nubeo_MessageService.dll" target="lib\net6.0\Nubeo_MessageService.dll" />
+  </files>
+</package>
